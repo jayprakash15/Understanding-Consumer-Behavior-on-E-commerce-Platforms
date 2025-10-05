@@ -1,15 +1,45 @@
-# Understanding-Consumer-Behavior-on-E-commerce-Platforms
-This was my final year project, while I was doing bacholers in statistics. As a part of our project it was mandatory for us to conduct survey and collect the data.
-I can't share actual data, but will definately share summary of project, code used for analysis and drawing inference from data.
+# Understanding Consumer Behavior on E-commerce Platforms
 
-Short project description:
-Analyzed survey data using inferential statistics to study gender and demographic variations in product category preferences. Applied hypothesis testing to validate that discounts and cashback significantly increased purchase likelihood across all age groups, confirming price sensitivity in consumer behavior.
+This project was developed as part of my final year during my Bachelor's in Statistics. The objective was to understand consumer behavior on e-commerce platforms through a survey-based study.
 
-Result of project:
-• Analyzed survey data using inferential statistics to study gender and demographic variations in product
-category preferences.
-• Applied hypothesis testing to validate that discounts and cashback significantly increased the likelihood of
-buying, across all age groups, confirming price sensitivity in consumer behavior.
+> **Note**: Due to privacy reasons, I cannot share the raw survey data. However, this repository includes the project summary, analysis code, and insights drawn from the data.
 
-Tech Stack used in project:
-Inferential Statistics, Hypothesis Testing, Survey Analysis, Consumer Behavior Insights
+---
+
+## 📌 Project Overview
+
+The project focused on analyzing survey data to understand how demographics influence online shopping behavior. The study specifically examined:
+
+* Gender and demographic variations in product category preferences.
+* The impact of discounts and cashback offers on purchase decisions.
+
+---
+
+## 🔍 Key Findings
+
+* **Consumer Preferences**: Product choices varied significantly across gender and demographic groups.
+* **Price Sensitivity**: Hypothesis testing confirmed that discounts and cashback offers substantially increased purchase likelihood across all age groups.
+* **Behavioral Insights**: Findings highlighted that consumers are highly price-sensitive, regardless of demographic differences.
+
+---
+
+## 🛠️ Tech Stack & Methods
+
+* **Inferential Statistics**
+* **Hypothesis Testing**
+* **Survey Data Analysis**
+* **Consumer Behavior Insights**
+
+---
+
+## 📂 Repository Structure
+
+* `summary.md` → Detailed project summary & results
+* `analysis_code/` → Code used for statistical analysis
+* `inferences/` → Key conclusions and insights
+
+---
+
+## 🚀 Outcome
+
+This project demonstrated how statistical methods can be applied to real-world consumer behavior studies, validating business strategies such as offering discounts and cashback to drive purchases.
