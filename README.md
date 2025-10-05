@@ -32,14 +32,6 @@ The project focused on analyzing survey data to understand how demographics infl
 
 ---
 
-## 📂 Repository Structure
-
-* `summary.md` → Detailed project summary & results
-* `analysis_code/` → Code used for statistical analysis
-* `inferences/` → Key conclusions and insights
-
----
-
 ## 🚀 Outcome
 
 This project demonstrated how statistical methods can be applied to real-world consumer behavior studies, validating business strategies such as offering discounts and cashback to drive purchases.
